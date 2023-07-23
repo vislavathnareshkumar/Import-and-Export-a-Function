@@ -1,3 +1,3 @@
 module.exports = function () {
-  return "This is a function";
+  return "This is a Function";
 };
